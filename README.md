@@ -2,79 +2,53 @@
 
 🎓 B.E. Computer Engineering Student | Aspiring Software Developer
 📍 Pune, India
-💻 Passionate about building efficient, user-focused, and scalable applications
 
-I am an aspiring software developer with hands-on experience in Java, Full-Stack Web Development, and Data Structures & Algorithms. I enjoy solving real-world problems through clean code and practical system design. I am motivated to continuously sharpen my technical skills and contribute to impactful software solutions in dynamic environments.
+I am passionate about building efficient, structured, and logical software solutions. I focus strongly on core programming, problem-solving, and clean documentation. My goal is to become a skilled software engineer with strong fundamentals and practical implementation ability.
 
-🚀 Technical Skills
-💻 Programming Languages
+🚀 About Me
 
+Strong foundation in C, C++, Java and Data Structures
+Interested in AI/ML, System Design, and Logical Problem Solving
+Core Team Member of CSI Club
+Continuously improving code quality and logical thinking
+
+🛠️ Tech Stack
+
+🔹 Programming Languages
 C Programming
-
 C++ Programming
+Java Programming
+Python Programming
 
-Java
-
-Python
-
+🔹 Web Technologies
+HTML
+CSS
 JavaScript
+Bootstrap
+Angular JS
+jQuery
 
-
-🌐 Web Technologies
-
-HTML, CSS
-
-JavaScript
-
-JQuery, Angular JS, Bootstrap
-
-🗄 Databases
-
+🔹 Databases
 MySQL
+Oracle SQL
 
-PL/SQL (Oracle)
-
-🧪 Testing
-
-Unit Testing
-
-🛠 Tools & IDEs
-
-VS Code
-
+🔹 Tools & Platforms
+Git
 GitHub
-
+VS Code
 Eclipse
 
+📌 Current Focus
 
-🎯 Current Focus
-
-Strengthening DSA & problem-solving skills
-
-Building structured C logical problem repositories
-
-Enhancing full-stack development capabilities
-
-Working on clean, well-documented code architecture
-
-🌟 Extracurricular Activities
-
-Core Member – CSI Club (PES MCOE)
-
-Robotics Club – Autonomous Bot Projects
-
-NSS Volunteer – Social & community initiatives
-
-Coordinator – Spandan Fest 2023 & 2025
-
-Edwise Marketing Team Member – Education fairs & promotions
+Strengthening problem-solving skills
+Building structured C and Java repositories
+Improving logic clarity and documentation style
+Exploring AI & Machine Learning concepts
 
 📫 Connect With Me
 
 📧 Email: varad.muley408@gmail.com
-
 🔗 LinkedIn: https://www.linkedin.com/in/varad-muley-937891291/
 
-💡 My Goal
-
-To become a skilled software engineer who builds reliable, secure, and intelligent systems while constantly evolving with new technologies.
+🎯 Career Objective
+To work as a software developer where I can apply my logical skills, strong programming fundamentals, and contribute to building reliable and scalable systems.
