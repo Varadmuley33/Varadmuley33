@@ -90,16 +90,3 @@ Debugging & Code Structuring Techniques
 ---
 
 ⭐ Explore my pinned repositories below to see practical implementations of my work.
-
-## 📊 GitHub Stats
-
-![Varad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Varadmuley33&show_icons=true&theme=tokyonight)
-
-## 🔥 Contribution Streak
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Varadmuley33&theme=tokyonight)
-
-## 💻 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Varadmuley33&layout=compact&theme=tokyonight)
-
