@@ -19,4 +19,4 @@ Passionate about **C, C++, Java, Python** and strong logical / DSA-based problem
 ## 📫 Connect
 
 **Email:** varad.muley408@gmail.com  
-**GitHub:** [Varadmuley33](https://github.com/Varadmuley33)
+**Linkden:** https://www.linkedin.com/in/varad-muley-937891291/
