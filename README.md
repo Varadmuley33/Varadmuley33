@@ -1,6 +1,6 @@
 # 👨‍💻 Varad Muley
 
-**Aspiring Software Developer | TE Computer Engineering (SPPU)**  
+**Aspiring Software Developer | BE Computer Engineering (SPPU)**  
 Focused on logical programming, strong fundamentals, and clean code architecture.
 
 ---
