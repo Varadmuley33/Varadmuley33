@@ -1,10 +1,6 @@
 # 👨‍💻 Varad Muley
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=varad-muley&label=Profile%20views&color=0e75b6&style=flat" alt="varad-muley" />
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/varad-muley-937891291/">
     <img src="https://img.shields.io/badge/LinkedIn-Varad%20Muley-blue?style=for-the-badge&logo=linkedin" />
   </a>
