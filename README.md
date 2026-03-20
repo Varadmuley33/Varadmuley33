@@ -87,10 +87,15 @@ I focus on building **efficient, scalable, and clean code solutions** with a str
 
 ---
 
+## 📊 Coding Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Varadmuley33&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Varadmuley33&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varadmuley33&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Varadmuley33&theme=tokyonight" />
+</p>>
 ---
 
 ## 📫 Connect With Me
