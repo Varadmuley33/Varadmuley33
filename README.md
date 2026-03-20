@@ -94,6 +94,35 @@ I focus on building **efficient, scalable, and clean code solutions** with a str
 </p>>
 ---
 
+## 🚀 Top Projects
+
+### 🔹 Data Structures & Algorithms Repository
+![C](https://img.shields.io/badge/C-00599C?style=flat)
+![C++](https://img.shields.io/badge/C++-004482?style=flat)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat)
+
+📌 Strong collection of logic-building programs and DSA implementations  
+🔗 https://github.com/Varadmuley33
+
+---
+
+### 🔹 Backend API (Spring Boot)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat)
+
+📌 REST API with database integration and structured backend design  
+🔗 https://github.com/Varadmuley33
+
+---
+
+### 🔹 Python Projects
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat)
+
+📌 Automation scripts and problem-solving implementations  
+🔗 https://github.com/Varadmuley33
+
+---
+
 ## 📫 Connect With Me
 
 📧 Email: [varad.muley408@gmail.com](mailto:varad.muley408@gmail.com)
