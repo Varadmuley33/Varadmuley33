@@ -1,104 +1,92 @@
 # 👨‍💻 Varad Muley
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/varad-muley-937891291/">
-    <img src="https://img.shields.io/badge/LinkedIn-Varad%20Muley-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:varad.muley408@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
-  </a>
-</p>
+**Aspiring Software Developer | BE Computer Engineering (SPPU)**  
+Focused on logical programming, strong fundamentals, and clean code architecture.
 
 ---
 
-## 🚀 About Me
+## ✅ Core Skills
 
-🎓 BE Computer Engineering (SPPU)
-💻 Aspiring Software Engineer with strong problem-solving mindset
-
-I focus on building **efficient, scalable, and clean code solutions** with a strong foundation in core programming and backend systems.
-
----
-
-## 💡 What I Bring
-
-✔ Strong logical problem-solving approach
-✔ Solid foundation in C, C++, Java, Python
-✔ Good understanding of Data Structures & Algorithms
-✔ Experience in backend development and API design
-✔ Writing clean, readable, and maintainable code
+✔ Strong foundation in C, C++, Java and Python with logical problem-solving approach  
+✔ Good understanding of Data Structures & Algorithms  
+✔ Experience with structured and well-documented coding practices  
+✔ Familiar with AI/ML concepts and system-level programming  
 
 ---
 
 ## 🛠 Tech Stack
 
-### 💻 Languages
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
-![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-
-### ⚙️ Backend
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge\&logo=hibernate\&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
-
-### 🗄 Database
-
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge\&logo=mysql\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
+### 🔙 Backend
+Spring Boot, Hibernate  
+MySQL, PostgreSQL  
+RESTful APIs  
+Async Processing & Queues 
+File Handling & System Programming Concepts  
 
 ### 🎨 Frontend
+HTML5, CSS3, JavaScript  
+Bootstrap, Tailwind CSS 
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-
-### 🤖 AI / Data
-
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
-
-### 🧰 Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual%20studio%20code\&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge\&logo=eclipse\&logoColor=white)
+### 🔧 Tools & Practices
+Git & GitHub  
+VS Code  
+Eclipse IDE  
+Command Line (Windows Terminal)  
+Debugging & Code Structuring Techniques  
 
 ---
 
-## 📌 Current Focus
+## 🚀 Current Focus
 
-🔭 Building strong DSA + logic repositories
-🌱 Improving backend and system design fundamentals
-⚡ Writing clean and structured production-level code
-🤖 Exploring AI + Software Engineering
+🔭 Building strong C and Java logical problem repositories  
+🌱 Mastering Data Structures & Algorithms step-by-step  
+💡 Improving code readability and professional documentation style  
+🤝 Exploring AI & Machine Learning fundamentals for future projects  
 
 ---
+## 🧰 Tech Stack Badges
 
-## 📊 Coding Stats
+<p align="left">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varadmuley33&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Next.js-6E40C9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Web3-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
 </p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Varadmuley33&theme=tokyonight" />
-</p>>
 ---
 
-## 📫 Connect With Me
+## 📫 Let's Connect
 
-📧 Email: [varad.muley408@gmail.com](mailto:varad.muley408@gmail.com)
+📧 Email: varad.muley408@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/varad-muley-937891291/
 
 ---
 
-⭐ Explore my repositories to see real implementations of my work.
+⭐ Explore my pinned repositories below to see practical implementations of my work.
