@@ -1,6 +1,7 @@
 # 👨‍💻 Varad Muley
 
-**Software Developer | BE Computer Engineering (SPPU)**
+
+**Software Developer | BE Computer Engineering (SPPU) | Competent in SQL**  
 Strong in logical programming, focused on fundamentals and clean code architecture.
 
 ---
